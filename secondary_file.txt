@@ -1,9 +1,9 @@
 This is the second file for the adding the files in the git.
 
 git is very much useful
-Now i have made changes to the file.
+Now i have made changes to the File.
 
 Hello, how are you?
-
+Hi
 Now i dont want this file to be in the staging area. 
 
