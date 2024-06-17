@@ -1,2 +1,6 @@
 This is the second file for the adding the files in the git.
 Now i have made changes to the file.
+
+git is very much useful
+
+Now i dont want this file to be in the staging area. 

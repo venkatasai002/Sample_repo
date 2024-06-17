@@ -1,2 +1,4 @@
 This is my first file for the git initialisation.
 Now i have made changes to the file.
+
+Now i wanna see how did the file change using diff, by subtracting and adding.
