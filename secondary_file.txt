@@ -7,3 +7,7 @@ Hello, how are you?
 Hi
 Now i dont want this file to be in the staging area. 
 
+
+I am making the changes to undo the staging area files.
+
+Chrcking the staged files
